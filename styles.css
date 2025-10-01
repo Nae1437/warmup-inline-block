@@ -1,0 +1,25 @@
+.page-title {
+    font-family: sans-serif;
+}
+  
+
+.page-title {
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.room-heading {
+    font-family: sans-serif;
+
+}
+
+.house-item {
+    border-style: solid;
+    border-width: 4px;
+    border-color: #555;
+    border-radius: 10px;
+    padding: 20px;
+    display: inline;
+    margin: 4px;
+    display: inline-block;
+}
