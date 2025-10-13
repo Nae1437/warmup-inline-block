@@ -1,49 +1,45 @@
 html {
-    background-color: darkgrey;
+    background-color:gray;
+    font-family: sans-serif;
 }
 
-.page-title {
 
+.title {
+   
 }
+
 
 .menu {
-
+  
 }
 
-.course {
-
-
-}
 
 .course-name {
-
 }
+
 
 .course-hours {
-
+  
 }
+
+
+.course-dishes {
+}
+
 
 .dish {
 
 }
 
+
 .dish-name {
-
-
 }
+
 
 .ingredients {
-
 }
 
-.separation {
-
-}
 
 .tags {
-
-}
-
-.tag {
 
 }
